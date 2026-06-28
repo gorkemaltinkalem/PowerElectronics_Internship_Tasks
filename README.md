@@ -1,2 +1,2 @@
 # PowerElectronics_Internship_Tasks
-LTspice ve KiCad kullanılarak tasarlanan ayrık bileşenli buck dönüştürücü devresi.
+LTspice ve KiCad kullanılarak, MOSFET, diyot, bobin ve kondansatör gibi ayrık (discrete) güç elektroniği bileşenleri ile bir buck (düşürücü) dönüştürücü devresinin tasarımı, analizi ve simülasyonu gerçekleştirilmiştir...
